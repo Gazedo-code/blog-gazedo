@@ -18,13 +18,13 @@ sass:
 # About/contact
 author:
   name:              Gazedo update
-  url:               https://github.com/gazedo-update
+  url:               https://github.com/gazedo-code
   email:             webmaster+blog@gazedo.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/gazedo/blog-gazedo
+  repo:              https://github.com/Gazedo-code/blog-gazedo
 #google_analytics:
 #  id:                
 
