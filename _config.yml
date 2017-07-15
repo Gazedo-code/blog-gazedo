@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Valenceo
+title:               Gazedo
 tagline:             welcome!
-url:                 http://blog.valenceo.com
+url:                 http://blog.gazedo.com
 paginate:            1
 baseurl:             ""
 
@@ -17,16 +17,16 @@ sass:
 
 # About/contact
 author:
-  name:              Matt Hayden
-  url:               https://github.com/matt-hayden
-  email:             manager+blog@valenceo.com
+  name:              Gazedo update
+  url:               https://github.com/gazedo-update
+  email:             webmaster+blog@gazedo.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/matt-hayden/blog-valenceo
-google_analytics:
-  id:                UA-102590217-1
+  repo:              https://github.com/gazedo/blog-gazedo
+#google_analytics:
+#  id:                
 
 # Gems
 gems:
